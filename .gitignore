@@ -1,2 +1,5 @@
 .DS_Store
 .RHistory
+.firebaserc
+firebase.json
+.firebase/hosting..cache
