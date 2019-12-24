@@ -1,16 +1,17 @@
 
+//Replace below Date with the date you meet your love.
+const date = new Date(2017, 3, 27).getTime();
+
 
 const year = new Date().getFullYear();
-const fourthOfJuly = new Date(2017, 3, 27).getTime();
-
-// countdown
+// countdown Timer
 let timer = setInterval(function() {
 
     // get today's date
     const today = new Date().getTime();
 
     // get the difference
-    const diff = today - fourthOfJuly;
+    const diff = today - date;
 
     // math
     let days = Math.floor(diff / (1000 * 60 * 60 * 24));
