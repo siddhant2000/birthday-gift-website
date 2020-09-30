@@ -5,7 +5,7 @@ Special website to gift on birthday
 ### Show some :heart: and :star: the repo to support the project
 ----
 
-## How to use and customise?
+## How to use and customize?
 If you are ready to customize this website for your love, then all you have to do is replace the demo images with your own images, make some changes in code and you are ready to go.
 
 1. ### Step 1: Replace the Images
@@ -22,7 +22,7 @@ replace demo images with you own images, repeat this step for all section.
             
             const date = new Date(2017, 3, 27).getTime();
 
-And that's all. Give it some persoanl touch and surprise someone.
+And that's all. Give it some personal touch and surprise someone.
 
 ---
 
@@ -32,7 +32,7 @@ I need your support to make this perfect. I am not a web developer but you are. 
 
 If you want to contribute, you are most welcome. 
 
-For begineers, you start by fixing issues that are submitted by other users.
+For beginers, you start by fixing issues that are submitted by other users.
 
 ---
 ## I need your Support :innocent:
